@@ -7,10 +7,13 @@ $(document).ready(function () {
 
 function getVipResult(url) {
     const tdata = document.getElementById("tdata");
+    const head = document.getElementById("theadd");
+    head.innerHTML = "";
     tdata.innerHTML = "";
 
     $.getJSON(url, function (response) {
-        let combine = '';
+        let combine = '', thead = '';
+        thead = '<tr><th>Student Name</th><th>Student ID</th><th>Birthday</th><th>Gender</th></tr>';
         response.studentPersonalInformation.forEach(data => {
             combine += `
                 <tr>
@@ -20,6 +23,7 @@ function getVipResult(url) {
                     <td>${data.Gender}</td>
                 </tr>`;
         });
+        head.innerHTML = thead;
         tdata.innerHTML = combine;
         searchfun();
     });
