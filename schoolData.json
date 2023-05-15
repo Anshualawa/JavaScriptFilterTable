@@ -1,1201 +1,1201 @@
 {
     "studentPersonalInformation": [
         {
-            "StudentId": "20230701",
+            "school_code":"2023CN001","StudentId": "20230701",
             "Name": "James",
             "Birthday": "5/6/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230702",
+            "school_code":"2023CN001","StudentId": "20230702",
             "Name": "Robert",
             "Birthday": "7/7/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230703",
+            "school_code":"2023CN001","StudentId": "20230703",
             "Name": "John",
             "Birthday": "21/1/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230704",
+            "school_code":"2023CN001","StudentId": "20230704",
             "Name": "Michael",
             "Birthday": "13/6/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230705",
+            "school_code":"2023CN001","StudentId": "20230705",
             "Name": "David",
             "Birthday": "15/10/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230706",
+            "school_code":"2023CN001","StudentId": "20230706",
             "Name": "William",
             "Birthday": "3/11/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230707",
+            "school_code":"2023CN001","StudentId": "20230707",
             "Name": "Richard",
             "Birthday": "26/1/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230708",
+            "school_code":"2023CN001","StudentId": "20230708",
             "Name": "Joseph",
             "Birthday": "10/6/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230709",
+            "school_code":"2023CN001","StudentId": "20230709",
             "Name": "Thomas",
             "Birthday": "2/7/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230710",
+            "school_code":"2023CN001","StudentId": "20230710",
             "Name": "Charles",
             "Birthday": "11/10/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230711",
+            "school_code":"2023CN001","StudentId": "20230711",
             "Name": "Christopher",
             "Birthday": "23/1/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230712",
+            "school_code":"2023CN001","StudentId": "20230712",
             "Name": "Daniel",
             "Birthday": "2/1/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230713",
+            "school_code":"2023CN001","StudentId": "20230713",
             "Name": "Matthew",
             "Birthday": "3/10/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230714",
+            "school_code":"2023CN001","StudentId": "20230714",
             "Name": "Anthony",
             "Birthday": "22/9/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230715",
+            "school_code":"2023CN001","StudentId": "20230715",
             "Name": "Mark",
             "Birthday": "16/9/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230716",
+            "school_code":"2023CN001","StudentId": "20230716",
             "Name": "Donald",
             "Birthday": "30/8/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230717",
+            "school_code":"2023CN001","StudentId": "20230717",
             "Name": "Steven",
             "Birthday": "1/1/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230718",
+            "school_code":"2023CN001","StudentId": "20230718",
             "Name": "Paul",
             "Birthday": "10/12/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230719",
+            "school_code":"2023CN001","StudentId": "20230719",
             "Name": "Andrew",
             "Birthday": "11/12/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230720",
+            "school_code":"2023CN001","StudentId": "20230720",
             "Name": "Joshua",
             "Birthday": "11/5/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230721",
+            "school_code":"2023CN001","StudentId": "20230721",
             "Name": "Kenneth",
             "Birthday": "6/9/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230722",
+            "school_code":"2023CN001","StudentId": "20230722",
             "Name": "Kevin",
             "Birthday": "5/11/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230723",
+            "school_code":"2023CN001","StudentId": "20230723",
             "Name": "Brian",
             "Birthday": "31/12/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230724",
+            "school_code":"2023CN001","StudentId": "20230724",
             "Name": "George",
             "Birthday": "21/10/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230725",
+            "school_code":"2023CN001","StudentId": "20230725",
             "Name": "Timothy",
             "Birthday": "29/12/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230726",
+            "school_code":"2023CN001","StudentId": "20230726",
             "Name": "Ronald",
             "Birthday": "24/3/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230727",
+            "school_code":"2023CN001","StudentId": "20230727",
             "Name": "Edward",
             "Birthday": "29/8/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230728",
+            "school_code":"2023CN001","StudentId": "20230728",
             "Name": "Jason",
             "Birthday": "14/2/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230729",
+            "school_code":"2023CN001","StudentId": "20230729",
             "Name": "Jeffrey",
             "Birthday": "9/1/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230730",
+            "school_code":"2023CN001","StudentId": "20230730",
             "Name": "Ryan",
             "Birthday": "27/5/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230731",
+            "school_code":"2023CN001","StudentId": "20230731",
             "Name": "Jacob",
             "Birthday": "31/11/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230732",
+            "school_code":"2023CN001","StudentId": "20230732",
             "Name": "Gary",
             "Birthday": "16/7/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230733",
+            "school_code":"2023CN001","StudentId": "20230733",
             "Name": "Nicholas",
             "Birthday": "6/7/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230734",
+            "school_code":"2023CN001","StudentId": "20230734",
             "Name": "Eric",
             "Birthday": "22/1/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230735",
+            "school_code":"2023CN001","StudentId": "20230735",
             "Name": "Jonathan",
             "Birthday": "14/8/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230736",
+            "school_code":"2023CN001","StudentId": "20230736",
             "Name": "Stephen",
             "Birthday": "12/7/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230737",
+            "school_code":"2023CN001","StudentId": "20230737",
             "Name": "Larry",
             "Birthday": "9/5/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230738",
+            "school_code":"2023CN001","StudentId": "20230738",
             "Name": "Justin",
             "Birthday": "28/7/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230739",
+            "school_code":"2023CN001","StudentId": "20230739",
             "Name": "Scott",
             "Birthday": "3/3/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230740",
+            "school_code":"2023CN001","StudentId": "20230740",
             "Name": "Brandon",
             "Birthday": "26/9/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230741",
+            "school_code":"2023CN001","StudentId": "20230741",
             "Name": "Benjamin",
             "Birthday": "22/1/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230742",
+            "school_code":"2023CN001","StudentId": "20230742",
             "Name": "Samuel",
             "Birthday": "13/2/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230743",
+            "school_code":"2023CN001","StudentId": "20230743",
             "Name": "Gregory",
             "Birthday": "12/2/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230744",
+            "school_code":"2023CN001","StudentId": "20230744",
             "Name": "Alexander",
             "Birthday": "20/10/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230745",
+            "school_code":"2023CN001","StudentId": "20230745",
             "Name": "Frank",
             "Birthday": "13/11/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230746",
+            "school_code":"2023CN001","StudentId": "20230746",
             "Name": "Patrick",
             "Birthday": "16/1/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230747",
+            "school_code":"2023CN001","StudentId": "20230747",
             "Name": "Raymond",
             "Birthday": "10/9/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230748",
+            "school_code":"2023CN001","StudentId": "20230748",
             "Name": "Jack",
             "Birthday": "31/5/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230749",
+            "school_code":"2023CN001","StudentId": "20230749",
             "Name": "Dennis",
             "Birthday": "7/5/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230750",
+            "school_code":"2023CN001","StudentId": "20230750",
             "Name": "Jerry",
             "Birthday": "18/10/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230751",
+            "school_code":"2023CN001","StudentId": "20230751",
             "Name": "Tyler",
             "Birthday": "20/9/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230752",
+            "school_code":"2023CN001","StudentId": "20230752",
             "Name": "Aaron",
             "Birthday": "6/1/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230753",
+            "school_code":"2023CN001","StudentId": "20230753",
             "Name": "Jose",
             "Birthday": "26/8/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230754",
+            "school_code":"2023CN001","StudentId": "20230754",
             "Name": "Adam",
             "Birthday": "15/6/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230755",
+            "school_code":"2023CN001","StudentId": "20230755",
             "Name": "Nathan",
             "Birthday": "11/7/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230756",
+            "school_code":"2023CN001","StudentId": "20230756",
             "Name": "Henry",
             "Birthday": "20/5/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230757",
+            "school_code":"2023CN001","StudentId": "20230757",
             "Name": "Douglas",
             "Birthday": "30/8/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230758",
+            "school_code":"2023CN001","StudentId": "20230758",
             "Name": "Zachary",
             "Birthday": "29/1/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230759",
+            "school_code":"2023CN001","StudentId": "20230759",
             "Name": "Peter",
             "Birthday": "25/5/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230760",
+            "school_code":"2023CN001","StudentId": "20230760",
             "Name": "Kyle",
             "Birthday": "5/8/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230761",
+            "school_code":"2023CN001","StudentId": "20230761",
             "Name": "Ethan",
             "Birthday": "14/5/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230762",
+            "school_code":"2023CN001","StudentId": "20230762",
             "Name": "Walter",
             "Birthday": "15/10/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230763",
+            "school_code":"2023CN001","StudentId": "20230763",
             "Name": "Noah",
             "Birthday": "18/10/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230764",
+            "school_code":"2023CN001","StudentId": "20230764",
             "Name": "Jeremy",
             "Birthday": "10/6/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230765",
+            "school_code":"2023CN001","StudentId": "20230765",
             "Name": "Christian",
             "Birthday": "28/3/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230766",
+            "school_code":"2023CN001","StudentId": "20230766",
             "Name": "Keith",
             "Birthday": "8/5/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230767",
+            "school_code":"2023CN001","StudentId": "20230767",
             "Name": "Roger",
             "Birthday": "8/5/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230768",
+            "school_code":"2023CN001","StudentId": "20230768",
             "Name": "Terry",
             "Birthday": "4/12/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230769",
+            "school_code":"2023CN001","StudentId": "20230769",
             "Name": "Gerald",
             "Birthday": "25/6/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230770",
+            "school_code":"2023CN001","StudentId": "20230770",
             "Name": "Harold",
             "Birthday": "19/7/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230771",
+            "school_code":"2023CN001","StudentId": "20230771",
             "Name": "Sean",
             "Birthday": "28/2/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230772",
+            "school_code":"2023CN001","StudentId": "20230772",
             "Name": "Austin",
             "Birthday": "17/6/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230773",
+            "school_code":"2023CN001","StudentId": "20230773",
             "Name": "Carl",
             "Birthday": "23/10/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230774",
+            "school_code":"2023CN001","StudentId": "20230774",
             "Name": "Arthur",
             "Birthday": "5/4/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230775",
+            "school_code":"2023CN001","StudentId": "20230775",
             "Name": "Lawrence",
             "Birthday": "27/9/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230776",
+            "school_code":"2023CN001","StudentId": "20230776",
             "Name": "Dylan",
             "Birthday": "2/9/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230777",
+            "school_code":"2023CN001","StudentId": "20230777",
             "Name": "Jesse",
             "Birthday": "27/11/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230778",
+            "school_code":"2023CN001","StudentId": "20230778",
             "Name": "Jordan",
             "Birthday": "30/1/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230779",
+            "school_code":"2023CN001","StudentId": "20230779",
             "Name": "Bryan",
             "Birthday": "17/5/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230780",
+            "school_code":"2023CN001","StudentId": "20230780",
             "Name": "Billy",
             "Birthday": "28/9/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230781",
+            "school_code":"2023CN001","StudentId": "20230781",
             "Name": "Joe",
             "Birthday": "8/11/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230782",
+            "school_code":"2023CN001","StudentId": "20230782",
             "Name": "Bruce",
             "Birthday": "28/9/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230783",
+            "school_code":"2023CN001","StudentId": "20230783",
             "Name": "Gabriel",
             "Birthday": "6/4/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230784",
+            "school_code":"2023CN001","StudentId": "20230784",
             "Name": "Logan",
             "Birthday": "24/4/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230785",
+            "school_code":"2023CN001","StudentId": "20230785",
             "Name": "Albert",
             "Birthday": "22/4/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230786",
+            "school_code":"2023CN001","StudentId": "20230786",
             "Name": "Willie",
             "Birthday": "5/10/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230787",
+            "school_code":"2023CN001","StudentId": "20230787",
             "Name": "Alan",
             "Birthday": "19/6/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230788",
+            "school_code":"2023CN001","StudentId": "20230788",
             "Name": "Juan",
             "Birthday": "31/7/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230789",
+            "school_code":"2023CN001","StudentId": "20230789",
             "Name": "Wayne",
             "Birthday": "15/8/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230790",
+            "school_code":"2023CN001","StudentId": "20230790",
             "Name": "Elijah",
             "Birthday": "29/12/2021",
             "Gender": "male"
         },
         {
-            "StudentId": "20230791",
+            "school_code":"2023CN001","StudentId": "20230791",
             "Name": "Randy",
             "Birthday": "28/9/2018",
             "Gender": "male"
         },
         {
-            "StudentId": "20230792",
+            "school_code":"2023CN001","StudentId": "20230792",
             "Name": "Roy",
             "Birthday": "7/8/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230793",
+            "school_code":"2023CN001","StudentId": "20230793",
             "Name": "Vincent",
             "Birthday": "4/1/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230794",
+            "school_code":"2023CN001","StudentId": "20230794",
             "Name": "Ralph",
             "Birthday": "5/1/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230795",
+            "school_code":"2023CN001","StudentId": "20230795",
             "Name": "Eugene",
             "Birthday": "31/3/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230796",
+            "school_code":"2023CN001","StudentId": "20230796",
             "Name": "Russell",
             "Birthday": "28/12/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230797",
+            "school_code":"2023CN001","StudentId": "20230797",
             "Name": "Bobby",
             "Birthday": "1/10/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230798",
+            "school_code":"2023CN001","StudentId": "20230798",
             "Name": "Mason",
             "Birthday": "31/12/2020",
             "Gender": "male"
         },
         {
-            "StudentId": "20230799",
+            "school_code":"2023CN001","StudentId": "20230799",
             "Name": "Philip",
             "Birthday": "13/1/2019",
             "Gender": "male"
         },
         {
-            "StudentId": "20230800",
+            "school_code":"2023CN001","StudentId": "20230800",
             "Name": "Louis",
             "Birthday": "18/11/2022",
             "Gender": "male"
         },
         {
-            "StudentId": "20230801",
+            "school_code":"2023CN001","StudentId": "20230801",
             "Name": "Mary",
             "Birthday": "28/9/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230802",
+            "school_code":"2023CN001","StudentId": "20230802",
             "Name": "Patricia",
             "Birthday": "18/11/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230803",
+            "school_code":"2023CN001","StudentId": "20230803",
             "Name": "Jennifer",
             "Birthday": "14/5/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230804",
+            "school_code":"2023CN001","StudentId": "20230804",
             "Name": "Linda",
             "Birthday": "29/3/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230805",
+            "school_code":"2023CN001","StudentId": "20230805",
             "Name": "Elizabeth",
             "Birthday": "19/5/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230806",
+            "school_code":"2023CN001","StudentId": "20230806",
             "Name": "Barbara",
             "Birthday": "27/4/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230807",
+            "school_code":"2023CN001","StudentId": "20230807",
             "Name": "Susan",
             "Birthday": "8/6/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230808",
+            "school_code":"2023CN001","StudentId": "20230808",
             "Name": "Jessica",
             "Birthday": "23/2/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230809",
+            "school_code":"2023CN001","StudentId": "20230809",
             "Name": "Sarah",
             "Birthday": "11/4/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230810",
+            "school_code":"2023CN001","StudentId": "20230810",
             "Name": "Karen",
             "Birthday": "20/4/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230811",
+            "school_code":"2023CN001","StudentId": "20230811",
             "Name": "Lisa",
             "Birthday": "4/7/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230812",
+            "school_code":"2023CN001","StudentId": "20230812",
             "Name": "Nancy",
             "Birthday": "13/10/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230813",
+            "school_code":"2023CN001","StudentId": "20230813",
             "Name": "Betty",
             "Birthday": "16/6/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230814",
+            "school_code":"2023CN001","StudentId": "20230814",
             "Name": "Margaret",
             "Birthday": "26/7/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230815",
+            "school_code":"2023CN001","StudentId": "20230815",
             "Name": "Sandra",
             "Birthday": "9/4/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230816",
+            "school_code":"2023CN001","StudentId": "20230816",
             "Name": "Ashley",
             "Birthday": "25/11/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230817",
+            "school_code":"2023CN001","StudentId": "20230817",
             "Name": "Kimberly",
             "Birthday": "10/5/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230818",
+            "school_code":"2023CN001","StudentId": "20230818",
             "Name": "Emily",
             "Birthday": "24/3/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230819",
+            "school_code":"2023CN001","StudentId": "20230819",
             "Name": "Donna",
             "Birthday": "4/7/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230820",
+            "school_code":"2023CN001","StudentId": "20230820",
             "Name": "Michelle",
             "Birthday": "26/8/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230821",
+            "school_code":"2023CN001","StudentId": "20230821",
             "Name": "Carol",
             "Birthday": "14/7/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230822",
+            "school_code":"2023CN001","StudentId": "20230822",
             "Name": "Amanda",
             "Birthday": "29/4/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230823",
+            "school_code":"2023CN001","StudentId": "20230823",
             "Name": "Dorothy",
             "Birthday": "20/1/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230824",
+            "school_code":"2023CN001","StudentId": "20230824",
             "Name": "Melissa",
             "Birthday": "18/3/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230825",
+            "school_code":"2023CN001","StudentId": "20230825",
             "Name": "Deborah",
             "Birthday": "2/8/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230826",
+            "school_code":"2023CN001","StudentId": "20230826",
             "Name": "Stephanie",
             "Birthday": "26/5/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230827",
+            "school_code":"2023CN001","StudentId": "20230827",
             "Name": "Rebecca",
             "Birthday": "15/8/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230828",
+            "school_code":"2023CN001","StudentId": "20230828",
             "Name": "Sharon",
             "Birthday": "21/7/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230829",
+            "school_code":"2023CN001","StudentId": "20230829",
             "Name": "Laura",
             "Birthday": "12/8/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230830",
+            "school_code":"2023CN001","StudentId": "20230830",
             "Name": "Cynthia",
             "Birthday": "26/11/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230831",
+            "school_code":"2023CN001","StudentId": "20230831",
             "Name": "Kathleen",
             "Birthday": "26/9/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230832",
+            "school_code":"2023CN001","StudentId": "20230832",
             "Name": "Amy",
             "Birthday": "5/9/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230833",
+            "school_code":"2023CN001","StudentId": "20230833",
             "Name": "Angela",
             "Birthday": "11/9/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230834",
+            "school_code":"2023CN001","StudentId": "20230834",
             "Name": "Shirley",
             "Birthday": "18/10/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230835",
+            "school_code":"2023CN001","StudentId": "20230835",
             "Name": "Anna",
             "Birthday": "28/4/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230836",
+            "school_code":"2023CN001","StudentId": "20230836",
             "Name": "Brenda",
             "Birthday": "26/5/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230837",
+            "school_code":"2023CN001","StudentId": "20230837",
             "Name": "Pamela",
             "Birthday": "21/8/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230838",
+            "school_code":"2023CN001","StudentId": "20230838",
             "Name": "Emma",
             "Birthday": "20/7/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230839",
+            "school_code":"2023CN001","StudentId": "20230839",
             "Name": "Nicole",
             "Birthday": "26/11/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230840",
+            "school_code":"2023CN001","StudentId": "20230840",
             "Name": "Helen",
             "Birthday": "2/6/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230841",
+            "school_code":"2023CN001","StudentId": "20230841",
             "Name": "Samantha",
             "Birthday": "29/12/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230842",
+            "school_code":"2023CN001","StudentId": "20230842",
             "Name": "Katherine",
             "Birthday": "16/10/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230843",
+            "school_code":"2023CN001","StudentId": "20230843",
             "Name": "Christine",
             "Birthday": "28/11/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230844",
+            "school_code":"2023CN001","StudentId": "20230844",
             "Name": "Debra",
             "Birthday": "8/4/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230845",
+            "school_code":"2023CN001","StudentId": "20230845",
             "Name": "Rachel",
             "Birthday": "15/9/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230846",
+            "school_code":"2023CN001","StudentId": "20230846",
             "Name": "Carolyn",
             "Birthday": "3/2/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230847",
+            "school_code":"2023CN001","StudentId": "20230847",
             "Name": "Janet",
             "Birthday": "6/11/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230848",
+            "school_code":"2023CN001","StudentId": "20230848",
             "Name": "Catherine",
             "Birthday": "11/6/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230849",
+            "school_code":"2023CN001","StudentId": "20230849",
             "Name": "Maria",
             "Birthday": "5/6/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230850",
+            "school_code":"2023CN001","StudentId": "20230850",
             "Name": "Heather",
             "Birthday": "5/12/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230851",
+            "school_code":"2023CN001","StudentId": "20230851",
             "Name": "Diane",
             "Birthday": "24/2/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230852",
+            "school_code":"2023CN001","StudentId": "20230852",
             "Name": "Ruth",
             "Birthday": "27/11/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230853",
+            "school_code":"2023CN001","StudentId": "20230853",
             "Name": "Julie",
             "Birthday": "10/12/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230854",
+            "school_code":"2023CN001","StudentId": "20230854",
             "Name": "Olivia",
             "Birthday": "26/11/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230855",
+            "school_code":"2023CN001","StudentId": "20230855",
             "Name": "Joyce",
             "Birthday": "26/2/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230856",
+            "school_code":"2023CN001","StudentId": "20230856",
             "Name": "Virginia",
             "Birthday": "22/11/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230857",
+            "school_code":"2023CN001","StudentId": "20230857",
             "Name": "Victoria",
             "Birthday": "14/10/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230858",
+            "school_code":"2023CN001","StudentId": "20230858",
             "Name": "Kelly",
             "Birthday": "14/2/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230859",
+            "school_code":"2023CN001","StudentId": "20230859",
             "Name": "Lauren",
             "Birthday": "8/11/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230860",
+            "school_code":"2023CN001","StudentId": "20230860",
             "Name": "Christina",
             "Birthday": "29/11/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230861",
+            "school_code":"2023CN001","StudentId": "20230861",
             "Name": "Joan",
             "Birthday": "17/4/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230862",
+            "school_code":"2023CN001","StudentId": "20230862",
             "Name": "Evelyn",
             "Birthday": "18/3/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230863",
+            "school_code":"2023CN001","StudentId": "20230863",
             "Name": "Judith",
             "Birthday": "19/10/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230864",
+            "school_code":"2023CN001","StudentId": "20230864",
             "Name": "Megan",
             "Birthday": "3/3/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230865",
+            "school_code":"2023CN001","StudentId": "20230865",
             "Name": "Andrea",
             "Birthday": "25/12/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230866",
+            "school_code":"2023CN001","StudentId": "20230866",
             "Name": "Cheryl",
             "Birthday": "30/4/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230867",
+            "school_code":"2023CN001","StudentId": "20230867",
             "Name": "Hannah",
             "Birthday": "7/5/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230868",
+            "school_code":"2023CN001","StudentId": "20230868",
             "Name": "Jacqueline",
             "Birthday": "6/11/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230869",
+            "school_code":"2023CN001","StudentId": "20230869",
             "Name": "Martha",
             "Birthday": "14/9/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230870",
+            "school_code":"2023CN001","StudentId": "20230870",
             "Name": "Gloria",
             "Birthday": "6/6/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230871",
+            "school_code":"2023CN001","StudentId": "20230871",
             "Name": "Teresa",
             "Birthday": "4/4/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230872",
+            "school_code":"2023CN001","StudentId": "20230872",
             "Name": "Ann",
             "Birthday": "16/1/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230873",
+            "school_code":"2023CN001","StudentId": "20230873",
             "Name": "Sara",
             "Birthday": "9/11/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230874",
+            "school_code":"2023CN001","StudentId": "20230874",
             "Name": "Madison",
             "Birthday": "22/2/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230875",
+            "school_code":"2023CN001","StudentId": "20230875",
             "Name": "Frances",
             "Birthday": "18/8/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230876",
+            "school_code":"2023CN001","StudentId": "20230876",
             "Name": "Kathryn",
             "Birthday": "6/6/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230877",
+            "school_code":"2023CN001","StudentId": "20230877",
             "Name": "Janice",
             "Birthday": "26/7/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230878",
+            "school_code":"2023CN001","StudentId": "20230878",
             "Name": "Jean",
             "Birthday": "5/11/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230879",
+            "school_code":"2023CN001","StudentId": "20230879",
             "Name": "Abigail",
             "Birthday": "15/9/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230880",
+            "school_code":"2023CN001","StudentId": "20230880",
             "Name": "Alice",
             "Birthday": "22/10/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230881",
+            "school_code":"2023CN001","StudentId": "20230881",
             "Name": "Julia",
             "Birthday": "30/10/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230882",
+            "school_code":"2023CN001","StudentId": "20230882",
             "Name": "Judy",
             "Birthday": "2/6/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230883",
+            "school_code":"2023CN001","StudentId": "20230883",
             "Name": "Sophia",
             "Birthday": "8/7/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230884",
+            "school_code":"2023CN001","StudentId": "20230884",
             "Name": "Grace",
             "Birthday": "29/3/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230885",
+            "school_code":"2023CN001","StudentId": "20230885",
             "Name": "Denise",
             "Birthday": "6/4/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230886",
+            "school_code":"2023CN001","StudentId": "20230886",
             "Name": "Amber",
             "Birthday": "5/7/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230887",
+            "school_code":"2023CN001","StudentId": "20230887",
             "Name": "Doris",
             "Birthday": "24/7/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230888",
+            "school_code":"2023CN001","StudentId": "20230888",
             "Name": "Marilyn",
             "Birthday": "12/6/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230889",
+            "school_code":"2023CN001","StudentId": "20230889",
             "Name": "Danielle",
             "Birthday": "29/6/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230890",
+            "school_code":"2023CN001","StudentId": "20230890",
             "Name": "Beverly",
             "Birthday": "9/3/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230891",
+            "school_code":"2023CN001","StudentId": "20230891",
             "Name": "Isabella",
             "Birthday": "18/11/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230892",
+            "school_code":"2023CN001","StudentId": "20230892",
             "Name": "Theresa",
             "Birthday": "11/12/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230893",
+            "school_code":"2023CN001","StudentId": "20230893",
             "Name": "Diana",
             "Birthday": "20/7/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230894",
+            "school_code":"2023CN001","StudentId": "20230894",
             "Name": "Natalie",
             "Birthday": "14/9/2019",
             "Gender": "female"
         },
         {
-            "StudentId": "20230895",
+            "school_code":"2023CN001","StudentId": "20230895",
             "Name": "Brittany",
             "Birthday": "10/12/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230896",
+            "school_code":"2023CN001","StudentId": "20230896",
             "Name": "Charlotte",
             "Birthday": "20/4/2020",
             "Gender": "female"
         },
         {
-            "StudentId": "20230897",
+            "school_code":"2023CN001","StudentId": "20230897",
             "Name": "Marie",
             "Birthday": "7/4/2018",
             "Gender": "female"
         },
         {
-            "StudentId": "20230898",
+            "school_code":"2023CN001","StudentId": "20230898",
             "Name": "Kayla",
             "Birthday": "5/12/2021",
             "Gender": "female"
         },
         {
-            "StudentId": "20230899",
+            "school_code":"2023CN001","StudentId": "20230899",
             "Name": "Alexis",
             "Birthday": "31/8/2022",
             "Gender": "female"
         },
         {
-            "StudentId": "20230900",
+            "school_code":"2023CN001","StudentId": "20230900",
             "Name": "Lori",
             "Birthday": "3/12/2020",
             "Gender": "female"
@@ -1203,1201 +1203,1201 @@
     ],
     "studentOtainMarks": [
         {
-            "StudentId": "20230701",
+            "school_code":"2023CN001","StudentId": "20230701",
             "Hindi": "43",
             "English": "87",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230702",
+            "school_code":"2023CN001","StudentId": "20230702",
             "Hindi": "29",
             "English": "67",
             "Mathematics": "45"
         },
         {
-            "StudentId": "20230703",
+            "school_code":"2023CN001","StudentId": "20230703",
             "Hindi": "61",
             "English": "85",
             "Mathematics": "66"
         },
         {
-            "StudentId": "20230704",
+            "school_code":"2023CN001","StudentId": "20230704",
             "Hindi": "44",
             "English": "93",
             "Mathematics": "62"
         },
         {
-            "StudentId": "20230705",
+            "school_code":"2023CN001","StudentId": "20230705",
             "Hindi": "50",
             "English": "69",
             "Mathematics": "37"
         },
         {
-            "StudentId": "20230706",
+            "school_code":"2023CN001","StudentId": "20230706",
             "Hindi": "67",
             "English": "64",
             "Mathematics": "59"
         },
         {
-            "StudentId": "20230707",
+            "school_code":"2023CN001","StudentId": "20230707",
             "Hindi": "77",
             "English": "88",
             "Mathematics": "71"
         },
         {
-            "StudentId": "20230708",
+            "school_code":"2023CN001","StudentId": "20230708",
             "Hindi": "35",
             "English": "40",
             "Mathematics": "29"
         },
         {
-            "StudentId": "20230709",
+            "school_code":"2023CN001","StudentId": "20230709",
             "Hindi": "86",
             "English": "29",
             "Mathematics": "82"
         },
         {
-            "StudentId": "20230710",
+            "school_code":"2023CN001","StudentId": "20230710",
             "Hindi": "53",
             "English": "96",
             "Mathematics": "53"
         },
         {
-            "StudentId": "20230711",
+            "school_code":"2023CN001","StudentId": "20230711",
             "Hindi": "40",
             "English": "37",
             "Mathematics": "87"
         },
         {
-            "StudentId": "20230712",
+            "school_code":"2023CN001","StudentId": "20230712",
             "Hindi": "44",
             "English": "47",
             "Mathematics": "74"
         },
         {
-            "StudentId": "20230713",
+            "school_code":"2023CN001","StudentId": "20230713",
             "Hindi": "41",
             "English": "42",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230714",
+            "school_code":"2023CN001","StudentId": "20230714",
             "Hindi": "58",
             "English": "97",
             "Mathematics": "34"
         },
         {
-            "StudentId": "20230715",
+            "school_code":"2023CN001","StudentId": "20230715",
             "Hindi": "34",
             "English": "83",
             "Mathematics": "47"
         },
         {
-            "StudentId": "20230716",
+            "school_code":"2023CN001","StudentId": "20230716",
             "Hindi": "72",
             "English": "83",
             "Mathematics": "81"
         },
         {
-            "StudentId": "20230717",
+            "school_code":"2023CN001","StudentId": "20230717",
             "Hindi": "37",
             "English": "43",
             "Mathematics": "72"
         },
         {
-            "StudentId": "20230718",
+            "school_code":"2023CN001","StudentId": "20230718",
             "Hindi": "27",
             "English": "29",
             "Mathematics": "53"
         },
         {
-            "StudentId": "20230719",
+            "school_code":"2023CN001","StudentId": "20230719",
             "Hindi": "26",
             "English": "57",
             "Mathematics": "50"
         },
         {
-            "StudentId": "20230720",
+            "school_code":"2023CN001","StudentId": "20230720",
             "Hindi": "76",
             "English": "75",
             "Mathematics": "91"
         },
         {
-            "StudentId": "20230721",
+            "school_code":"2023CN001","StudentId": "20230721",
             "Hindi": "34",
             "English": "62",
             "Mathematics": "31"
         },
         {
-            "StudentId": "20230722",
+            "school_code":"2023CN001","StudentId": "20230722",
             "Hindi": "90",
             "English": "89",
             "Mathematics": "53"
         },
         {
-            "StudentId": "20230723",
+            "school_code":"2023CN001","StudentId": "20230723",
             "Hindi": "89",
             "English": "68",
             "Mathematics": "25"
         },
         {
-            "StudentId": "20230724",
+            "school_code":"2023CN001","StudentId": "20230724",
             "Hindi": "84",
             "English": "27",
             "Mathematics": "51"
         },
         {
-            "StudentId": "20230725",
+            "school_code":"2023CN001","StudentId": "20230725",
             "Hindi": "86",
             "English": "34",
             "Mathematics": "97"
         },
         {
-            "StudentId": "20230726",
+            "school_code":"2023CN001","StudentId": "20230726",
             "Hindi": "81",
             "English": "75",
             "Mathematics": "60"
         },
         {
-            "StudentId": "20230727",
+            "school_code":"2023CN001","StudentId": "20230727",
             "Hindi": "81",
             "English": "53",
             "Mathematics": "38"
         },
         {
-            "StudentId": "20230728",
+            "school_code":"2023CN001","StudentId": "20230728",
             "Hindi": "46",
             "English": "62",
             "Mathematics": "42"
         },
         {
-            "StudentId": "20230729",
+            "school_code":"2023CN001","StudentId": "20230729",
             "Hindi": "52",
             "English": "52",
             "Mathematics": "87"
         },
         {
-            "StudentId": "20230730",
+            "school_code":"2023CN001","StudentId": "20230730",
             "Hindi": "98",
             "English": "37",
             "Mathematics": "65"
         },
         {
-            "StudentId": "20230731",
+            "school_code":"2023CN001","StudentId": "20230731",
             "Hindi": "87",
             "English": "60",
             "Mathematics": "72"
         },
         {
-            "StudentId": "20230732",
+            "school_code":"2023CN001","StudentId": "20230732",
             "Hindi": "61",
             "English": "85",
             "Mathematics": "70"
         },
         {
-            "StudentId": "20230733",
+            "school_code":"2023CN001","StudentId": "20230733",
             "Hindi": "25",
             "English": "41",
             "Mathematics": "57"
         },
         {
-            "StudentId": "20230734",
+            "school_code":"2023CN001","StudentId": "20230734",
             "Hindi": "41",
             "English": "38",
             "Mathematics": "78"
         },
         {
-            "StudentId": "20230735",
+            "school_code":"2023CN001","StudentId": "20230735",
             "Hindi": "90",
             "English": "28",
             "Mathematics": "88"
         },
         {
-            "StudentId": "20230736",
+            "school_code":"2023CN001","StudentId": "20230736",
             "Hindi": "43",
             "English": "46",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230737",
+            "school_code":"2023CN001","StudentId": "20230737",
             "Hindi": "98",
             "English": "36",
             "Mathematics": "63"
         },
         {
-            "StudentId": "20230738",
+            "school_code":"2023CN001","StudentId": "20230738",
             "Hindi": "26",
             "English": "98",
             "Mathematics": "81"
         },
         {
-            "StudentId": "20230739",
+            "school_code":"2023CN001","StudentId": "20230739",
             "Hindi": "36",
             "English": "55",
             "Mathematics": "38"
         },
         {
-            "StudentId": "20230740",
+            "school_code":"2023CN001","StudentId": "20230740",
             "Hindi": "35",
             "English": "38",
             "Mathematics": "92"
         },
         {
-            "StudentId": "20230741",
+            "school_code":"2023CN001","StudentId": "20230741",
             "Hindi": "63",
             "English": "34",
             "Mathematics": "78"
         },
         {
-            "StudentId": "20230742",
+            "school_code":"2023CN001","StudentId": "20230742",
             "Hindi": "62",
             "English": "85",
             "Mathematics": "45"
         },
         {
-            "StudentId": "20230743",
+            "school_code":"2023CN001","StudentId": "20230743",
             "Hindi": "93",
             "English": "96",
             "Mathematics": "98"
         },
         {
-            "StudentId": "20230744",
+            "school_code":"2023CN001","StudentId": "20230744",
             "Hindi": "32",
             "English": "77",
             "Mathematics": "26"
         },
         {
-            "StudentId": "20230745",
+            "school_code":"2023CN001","StudentId": "20230745",
             "Hindi": "89",
             "English": "45",
             "Mathematics": "58"
         },
         {
-            "StudentId": "20230746",
+            "school_code":"2023CN001","StudentId": "20230746",
             "Hindi": "58",
             "English": "29",
             "Mathematics": "31"
         },
         {
-            "StudentId": "20230747",
+            "school_code":"2023CN001","StudentId": "20230747",
             "Hindi": "54",
             "English": "30",
             "Mathematics": "61"
         },
         {
-            "StudentId": "20230748",
+            "school_code":"2023CN001","StudentId": "20230748",
             "Hindi": "53",
             "English": "97",
             "Mathematics": "73"
         },
         {
-            "StudentId": "20230749",
+            "school_code":"2023CN001","StudentId": "20230749",
             "Hindi": "85",
             "English": "86",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230750",
+            "school_code":"2023CN001","StudentId": "20230750",
             "Hindi": "70",
             "English": "49",
             "Mathematics": "99"
         },
         {
-            "StudentId": "20230751",
+            "school_code":"2023CN001","StudentId": "20230751",
             "Hindi": "27",
             "English": "55",
             "Mathematics": "82"
         },
         {
-            "StudentId": "20230752",
+            "school_code":"2023CN001","StudentId": "20230752",
             "Hindi": "77",
             "English": "58",
             "Mathematics": "47"
         },
         {
-            "StudentId": "20230753",
+            "school_code":"2023CN001","StudentId": "20230753",
             "Hindi": "36",
             "English": "75",
             "Mathematics": "56"
         },
         {
-            "StudentId": "20230754",
+            "school_code":"2023CN001","StudentId": "20230754",
             "Hindi": "77",
             "English": "77",
             "Mathematics": "27"
         },
         {
-            "StudentId": "20230755",
+            "school_code":"2023CN001","StudentId": "20230755",
             "Hindi": "67",
             "English": "44",
             "Mathematics": "69"
         },
         {
-            "StudentId": "20230756",
+            "school_code":"2023CN001","StudentId": "20230756",
             "Hindi": "87",
             "English": "99",
             "Mathematics": "80"
         },
         {
-            "StudentId": "20230757",
+            "school_code":"2023CN001","StudentId": "20230757",
             "Hindi": "42",
             "English": "92",
             "Mathematics": "40"
         },
         {
-            "StudentId": "20230758",
+            "school_code":"2023CN001","StudentId": "20230758",
             "Hindi": "84",
             "English": "40",
             "Mathematics": "59"
         },
         {
-            "StudentId": "20230759",
+            "school_code":"2023CN001","StudentId": "20230759",
             "Hindi": "28",
             "English": "74",
             "Mathematics": "54"
         },
         {
-            "StudentId": "20230760",
+            "school_code":"2023CN001","StudentId": "20230760",
             "Hindi": "58",
             "English": "93",
             "Mathematics": "89"
         },
         {
-            "StudentId": "20230761",
+            "school_code":"2023CN001","StudentId": "20230761",
             "Hindi": "34",
             "English": "67",
             "Mathematics": "48"
         },
         {
-            "StudentId": "20230762",
+            "school_code":"2023CN001","StudentId": "20230762",
             "Hindi": "81",
             "English": "50",
             "Mathematics": "43"
         },
         {
-            "StudentId": "20230763",
+            "school_code":"2023CN001","StudentId": "20230763",
             "Hindi": "91",
             "English": "65",
             "Mathematics": "94"
         },
         {
-            "StudentId": "20230764",
+            "school_code":"2023CN001","StudentId": "20230764",
             "Hindi": "79",
             "English": "86",
             "Mathematics": "93"
         },
         {
-            "StudentId": "20230765",
+            "school_code":"2023CN001","StudentId": "20230765",
             "Hindi": "29",
             "English": "94",
             "Mathematics": "86"
         },
         {
-            "StudentId": "20230766",
+            "school_code":"2023CN001","StudentId": "20230766",
             "Hindi": "54",
             "English": "61",
             "Mathematics": "65"
         },
         {
-            "StudentId": "20230767",
+            "school_code":"2023CN001","StudentId": "20230767",
             "Hindi": "33",
             "English": "99",
             "Mathematics": "67"
         },
         {
-            "StudentId": "20230768",
+            "school_code":"2023CN001","StudentId": "20230768",
             "Hindi": "25",
             "English": "88",
             "Mathematics": "39"
         },
         {
-            "StudentId": "20230769",
+            "school_code":"2023CN001","StudentId": "20230769",
             "Hindi": "52",
             "English": "57",
             "Mathematics": "42"
         },
         {
-            "StudentId": "20230770",
+            "school_code":"2023CN001","StudentId": "20230770",
             "Hindi": "89",
             "English": "97",
             "Mathematics": "68"
         },
         {
-            "StudentId": "20230771",
+            "school_code":"2023CN001","StudentId": "20230771",
             "Hindi": "50",
             "English": "39",
             "Mathematics": "77"
         },
         {
-            "StudentId": "20230772",
+            "school_code":"2023CN001","StudentId": "20230772",
             "Hindi": "25",
             "English": "69",
             "Mathematics": "72"
         },
         {
-            "StudentId": "20230773",
+            "school_code":"2023CN001","StudentId": "20230773",
             "Hindi": "79",
             "English": "62",
             "Mathematics": "92"
         },
         {
-            "StudentId": "20230774",
+            "school_code":"2023CN001","StudentId": "20230774",
             "Hindi": "42",
             "English": "98",
             "Mathematics": "42"
         },
         {
-            "StudentId": "20230775",
+            "school_code":"2023CN001","StudentId": "20230775",
             "Hindi": "48",
             "English": "61",
             "Mathematics": "74"
         },
         {
-            "StudentId": "20230776",
+            "school_code":"2023CN001","StudentId": "20230776",
             "Hindi": "95",
             "English": "46",
             "Mathematics": "73"
         },
         {
-            "StudentId": "20230777",
+            "school_code":"2023CN001","StudentId": "20230777",
             "Hindi": "35",
             "English": "81",
             "Mathematics": "71"
         },
         {
-            "StudentId": "20230778",
+            "school_code":"2023CN001","StudentId": "20230778",
             "Hindi": "50",
             "English": "40",
             "Mathematics": "31"
         },
         {
-            "StudentId": "20230779",
+            "school_code":"2023CN001","StudentId": "20230779",
             "Hindi": "56",
             "English": "43",
             "Mathematics": "66"
         },
         {
-            "StudentId": "20230780",
+            "school_code":"2023CN001","StudentId": "20230780",
             "Hindi": "99",
             "English": "83",
             "Mathematics": "52"
         },
         {
-            "StudentId": "20230781",
+            "school_code":"2023CN001","StudentId": "20230781",
             "Hindi": "45",
             "English": "100",
             "Mathematics": "49"
         },
         {
-            "StudentId": "20230782",
+            "school_code":"2023CN001","StudentId": "20230782",
             "Hindi": "73",
             "English": "94",
             "Mathematics": "79"
         },
         {
-            "StudentId": "20230783",
+            "school_code":"2023CN001","StudentId": "20230783",
             "Hindi": "34",
             "English": "84",
             "Mathematics": "48"
         },
         {
-            "StudentId": "20230784",
+            "school_code":"2023CN001","StudentId": "20230784",
             "Hindi": "50",
             "English": "70",
             "Mathematics": "56"
         },
         {
-            "StudentId": "20230785",
+            "school_code":"2023CN001","StudentId": "20230785",
             "Hindi": "31",
             "English": "33",
             "Mathematics": "92"
         },
         {
-            "StudentId": "20230786",
+            "school_code":"2023CN001","StudentId": "20230786",
             "Hindi": "54",
             "English": "43",
             "Mathematics": "94"
         },
         {
-            "StudentId": "20230787",
+            "school_code":"2023CN001","StudentId": "20230787",
             "Hindi": "82",
             "English": "43",
             "Mathematics": "32"
         },
         {
-            "StudentId": "20230788",
+            "school_code":"2023CN001","StudentId": "20230788",
             "Hindi": "42",
             "English": "86",
             "Mathematics": "79"
         },
         {
-            "StudentId": "20230789",
+            "school_code":"2023CN001","StudentId": "20230789",
             "Hindi": "41",
             "English": "82",
             "Mathematics": "63"
         },
         {
-            "StudentId": "20230790",
+            "school_code":"2023CN001","StudentId": "20230790",
             "Hindi": "45",
             "English": "81",
             "Mathematics": "84"
         },
         {
-            "StudentId": "20230791",
+            "school_code":"2023CN001","StudentId": "20230791",
             "Hindi": "85",
             "English": "25",
             "Mathematics": "61"
         },
         {
-            "StudentId": "20230792",
+            "school_code":"2023CN001","StudentId": "20230792",
             "Hindi": "96",
             "English": "75",
             "Mathematics": "65"
         },
         {
-            "StudentId": "20230793",
+            "school_code":"2023CN001","StudentId": "20230793",
             "Hindi": "29",
             "English": "53",
             "Mathematics": "63"
         },
         {
-            "StudentId": "20230794",
+            "school_code":"2023CN001","StudentId": "20230794",
             "Hindi": "77",
             "English": "100",
             "Mathematics": "56"
         },
         {
-            "StudentId": "20230795",
+            "school_code":"2023CN001","StudentId": "20230795",
             "Hindi": "69",
             "English": "88",
             "Mathematics": "54"
         },
         {
-            "StudentId": "20230796",
+            "school_code":"2023CN001","StudentId": "20230796",
             "Hindi": "51",
             "English": "71",
             "Mathematics": "63"
         },
         {
-            "StudentId": "20230797",
+            "school_code":"2023CN001","StudentId": "20230797",
             "Hindi": "35",
             "English": "63",
             "Mathematics": "49"
         },
         {
-            "StudentId": "20230798",
+            "school_code":"2023CN001","StudentId": "20230798",
             "Hindi": "73",
             "English": "43",
             "Mathematics": "66"
         },
         {
-            "StudentId": "20230799",
+            "school_code":"2023CN001","StudentId": "20230799",
             "Hindi": "41",
             "English": "65",
             "Mathematics": "86"
         },
         {
-            "StudentId": "20230800",
+            "school_code":"2023CN001","StudentId": "20230800",
             "Hindi": "36",
             "English": "98",
             "Mathematics": "76"
         },
         {
-            "StudentId": "20230801",
+            "school_code":"2023CN001","StudentId": "20230801",
             "Hindi": "82",
             "English": "97",
             "Mathematics": "88"
         },
         {
-            "StudentId": "20230802",
+            "school_code":"2023CN001","StudentId": "20230802",
             "Hindi": "52",
             "English": "92",
             "Mathematics": "69"
         },
         {
-            "StudentId": "20230803",
+            "school_code":"2023CN001","StudentId": "20230803",
             "Hindi": "71",
             "English": "94",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230804",
+            "school_code":"2023CN001","StudentId": "20230804",
             "Hindi": "43",
             "English": "94",
             "Mathematics": "59"
         },
         {
-            "StudentId": "20230805",
+            "school_code":"2023CN001","StudentId": "20230805",
             "Hindi": "91",
             "English": "91",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230806",
+            "school_code":"2023CN001","StudentId": "20230806",
             "Hindi": "54",
             "English": "78",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230807",
+            "school_code":"2023CN001","StudentId": "20230807",
             "Hindi": "90",
             "English": "76",
             "Mathematics": "57"
         },
         {
-            "StudentId": "20230808",
+            "school_code":"2023CN001","StudentId": "20230808",
             "Hindi": "74",
             "English": "31",
             "Mathematics": "51"
         },
         {
-            "StudentId": "20230809",
+            "school_code":"2023CN001","StudentId": "20230809",
             "Hindi": "80",
             "English": "58",
             "Mathematics": "94"
         },
         {
-            "StudentId": "20230810",
+            "school_code":"2023CN001","StudentId": "20230810",
             "Hindi": "84",
             "English": "44",
             "Mathematics": "62"
         },
         {
-            "StudentId": "20230811",
+            "school_code":"2023CN001","StudentId": "20230811",
             "Hindi": "61",
             "English": "80",
             "Mathematics": "86"
         },
         {
-            "StudentId": "20230812",
+            "school_code":"2023CN001","StudentId": "20230812",
             "Hindi": "28",
             "English": "77",
             "Mathematics": "54"
         },
         {
-            "StudentId": "20230813",
+            "school_code":"2023CN001","StudentId": "20230813",
             "Hindi": "57",
             "English": "75",
             "Mathematics": "26"
         },
         {
-            "StudentId": "20230814",
+            "school_code":"2023CN001","StudentId": "20230814",
             "Hindi": "86",
             "English": "83",
             "Mathematics": "37"
         },
         {
-            "StudentId": "20230815",
+            "school_code":"2023CN001","StudentId": "20230815",
             "Hindi": "81",
             "English": "91",
             "Mathematics": "79"
         },
         {
-            "StudentId": "20230816",
+            "school_code":"2023CN001","StudentId": "20230816",
             "Hindi": "25",
             "English": "35",
             "Mathematics": "52"
         },
         {
-            "StudentId": "20230817",
+            "school_code":"2023CN001","StudentId": "20230817",
             "Hindi": "39",
             "English": "94",
             "Mathematics": "77"
         },
         {
-            "StudentId": "20230818",
+            "school_code":"2023CN001","StudentId": "20230818",
             "Hindi": "47",
             "English": "55",
             "Mathematics": "57"
         },
         {
-            "StudentId": "20230819",
+            "school_code":"2023CN001","StudentId": "20230819",
             "Hindi": "56",
             "English": "98",
             "Mathematics": "64"
         },
         {
-            "StudentId": "20230820",
+            "school_code":"2023CN001","StudentId": "20230820",
             "Hindi": "41",
             "English": "99",
             "Mathematics": "96"
         },
         {
-            "StudentId": "20230821",
+            "school_code":"2023CN001","StudentId": "20230821",
             "Hindi": "60",
             "English": "75",
             "Mathematics": "76"
         },
         {
-            "StudentId": "20230822",
+            "school_code":"2023CN001","StudentId": "20230822",
             "Hindi": "44",
             "English": "62",
             "Mathematics": "96"
         },
         {
-            "StudentId": "20230823",
+            "school_code":"2023CN001","StudentId": "20230823",
             "Hindi": "57",
             "English": "91",
             "Mathematics": "58"
         },
         {
-            "StudentId": "20230824",
+            "school_code":"2023CN001","StudentId": "20230824",
             "Hindi": "77",
             "English": "90",
             "Mathematics": "39"
         },
         {
-            "StudentId": "20230825",
+            "school_code":"2023CN001","StudentId": "20230825",
             "Hindi": "69",
             "English": "57",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230826",
+            "school_code":"2023CN001","StudentId": "20230826",
             "Hindi": "71",
             "English": "93",
             "Mathematics": "84"
         },
         {
-            "StudentId": "20230827",
+            "school_code":"2023CN001","StudentId": "20230827",
             "Hindi": "96",
             "English": "42",
             "Mathematics": "74"
         },
         {
-            "StudentId": "20230828",
+            "school_code":"2023CN001","StudentId": "20230828",
             "Hindi": "55",
             "English": "32",
             "Mathematics": "68"
         },
         {
-            "StudentId": "20230829",
+            "school_code":"2023CN001","StudentId": "20230829",
             "Hindi": "76",
             "English": "59",
             "Mathematics": "78"
         },
         {
-            "StudentId": "20230830",
+            "school_code":"2023CN001","StudentId": "20230830",
             "Hindi": "94",
             "English": "68",
             "Mathematics": "29"
         },
         {
-            "StudentId": "20230831",
+            "school_code":"2023CN001","StudentId": "20230831",
             "Hindi": "33",
             "English": "36",
             "Mathematics": "56"
         },
         {
-            "StudentId": "20230832",
+            "school_code":"2023CN001","StudentId": "20230832",
             "Hindi": "69",
             "English": "28",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230833",
+            "school_code":"2023CN001","StudentId": "20230833",
             "Hindi": "87",
             "English": "60",
             "Mathematics": "37"
         },
         {
-            "StudentId": "20230834",
+            "school_code":"2023CN001","StudentId": "20230834",
             "Hindi": "42",
             "English": "94",
             "Mathematics": "75"
         },
         {
-            "StudentId": "20230835",
+            "school_code":"2023CN001","StudentId": "20230835",
             "Hindi": "46",
             "English": "67",
             "Mathematics": "80"
         },
         {
-            "StudentId": "20230836",
+            "school_code":"2023CN001","StudentId": "20230836",
             "Hindi": "59",
             "English": "25",
             "Mathematics": "57"
         },
         {
-            "StudentId": "20230837",
+            "school_code":"2023CN001","StudentId": "20230837",
             "Hindi": "57",
             "English": "74",
             "Mathematics": "99"
         },
         {
-            "StudentId": "20230838",
+            "school_code":"2023CN001","StudentId": "20230838",
             "Hindi": "33",
             "English": "45",
             "Mathematics": "32"
         },
         {
-            "StudentId": "20230839",
+            "school_code":"2023CN001","StudentId": "20230839",
             "Hindi": "82",
             "English": "27",
             "Mathematics": "85"
         },
         {
-            "StudentId": "20230840",
+            "school_code":"2023CN001","StudentId": "20230840",
             "Hindi": "68",
             "English": "45",
             "Mathematics": "34"
         },
         {
-            "StudentId": "20230841",
+            "school_code":"2023CN001","StudentId": "20230841",
             "Hindi": "41",
             "English": "77",
             "Mathematics": "37"
         },
         {
-            "StudentId": "20230842",
+            "school_code":"2023CN001","StudentId": "20230842",
             "Hindi": "43",
             "English": "98",
             "Mathematics": "90"
         },
         {
-            "StudentId": "20230843",
+            "school_code":"2023CN001","StudentId": "20230843",
             "Hindi": "94",
             "English": "80",
             "Mathematics": "61"
         },
         {
-            "StudentId": "20230844",
+            "school_code":"2023CN001","StudentId": "20230844",
             "Hindi": "53",
             "English": "84",
             "Mathematics": "60"
         },
         {
-            "StudentId": "20230845",
+            "school_code":"2023CN001","StudentId": "20230845",
             "Hindi": "35",
             "English": "50",
             "Mathematics": "92"
         },
         {
-            "StudentId": "20230846",
+            "school_code":"2023CN001","StudentId": "20230846",
             "Hindi": "71",
             "English": "97",
             "Mathematics": "82"
         },
         {
-            "StudentId": "20230847",
+            "school_code":"2023CN001","StudentId": "20230847",
             "Hindi": "39",
             "English": "72",
             "Mathematics": "55"
         },
         {
-            "StudentId": "20230848",
+            "school_code":"2023CN001","StudentId": "20230848",
             "Hindi": "25",
             "English": "71",
             "Mathematics": "75"
         },
         {
-            "StudentId": "20230849",
+            "school_code":"2023CN001","StudentId": "20230849",
             "Hindi": "55",
             "English": "63",
             "Mathematics": "33"
         },
         {
-            "StudentId": "20230850",
+            "school_code":"2023CN001","StudentId": "20230850",
             "Hindi": "90",
             "English": "33",
             "Mathematics": "46"
         },
         {
-            "StudentId": "20230851",
+            "school_code":"2023CN001","StudentId": "20230851",
             "Hindi": "47",
             "English": "45",
             "Mathematics": "73"
         },
         {
-            "StudentId": "20230852",
+            "school_code":"2023CN001","StudentId": "20230852",
             "Hindi": "69",
             "English": "74",
             "Mathematics": "29"
         },
         {
-            "StudentId": "20230853",
+            "school_code":"2023CN001","StudentId": "20230853",
             "Hindi": "98",
             "English": "73",
             "Mathematics": "76"
         },
         {
-            "StudentId": "20230854",
+            "school_code":"2023CN001","StudentId": "20230854",
             "Hindi": "25",
             "English": "80",
             "Mathematics": "46"
         },
         {
-            "StudentId": "20230855",
+            "school_code":"2023CN001","StudentId": "20230855",
             "Hindi": "32",
             "English": "65",
             "Mathematics": "69"
         },
         {
-            "StudentId": "20230856",
+            "school_code":"2023CN001","StudentId": "20230856",
             "Hindi": "94",
             "English": "70",
             "Mathematics": "33"
         },
         {
-            "StudentId": "20230857",
+            "school_code":"2023CN001","StudentId": "20230857",
             "Hindi": "31",
             "English": "66",
             "Mathematics": "35"
         },
         {
-            "StudentId": "20230858",
+            "school_code":"2023CN001","StudentId": "20230858",
             "Hindi": "56",
             "English": "57",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230859",
+            "school_code":"2023CN001","StudentId": "20230859",
             "Hindi": "50",
             "English": "37",
             "Mathematics": "61"
         },
         {
-            "StudentId": "20230860",
+            "school_code":"2023CN001","StudentId": "20230860",
             "Hindi": "67",
             "English": "34",
             "Mathematics": "51"
         },
         {
-            "StudentId": "20230861",
+            "school_code":"2023CN001","StudentId": "20230861",
             "Hindi": "59",
             "English": "59",
             "Mathematics": "32"
         },
         {
-            "StudentId": "20230862",
+            "school_code":"2023CN001","StudentId": "20230862",
             "Hindi": "38",
             "English": "95",
             "Mathematics": "42"
         },
         {
-            "StudentId": "20230863",
+            "school_code":"2023CN001","StudentId": "20230863",
             "Hindi": "92",
             "English": "52",
             "Mathematics": "40"
         },
         {
-            "StudentId": "20230864",
+            "school_code":"2023CN001","StudentId": "20230864",
             "Hindi": "50",
             "English": "84",
             "Mathematics": "44"
         },
         {
-            "StudentId": "20230865",
+            "school_code":"2023CN001","StudentId": "20230865",
             "Hindi": "53",
             "English": "96",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230866",
+            "school_code":"2023CN001","StudentId": "20230866",
             "Hindi": "54",
             "English": "65",
             "Mathematics": "56"
         },
         {
-            "StudentId": "20230867",
+            "school_code":"2023CN001","StudentId": "20230867",
             "Hindi": "43",
             "English": "80",
             "Mathematics": "58"
         },
         {
-            "StudentId": "20230868",
+            "school_code":"2023CN001","StudentId": "20230868",
             "Hindi": "100",
             "English": "78",
             "Mathematics": "43"
         },
         {
-            "StudentId": "20230869",
+            "school_code":"2023CN001","StudentId": "20230869",
             "Hindi": "72",
             "English": "45",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230870",
+            "school_code":"2023CN001","StudentId": "20230870",
             "Hindi": "33",
             "English": "54",
             "Mathematics": "63"
         },
         {
-            "StudentId": "20230871",
+            "school_code":"2023CN001","StudentId": "20230871",
             "Hindi": "71",
             "English": "27",
             "Mathematics": "99"
         },
         {
-            "StudentId": "20230872",
+            "school_code":"2023CN001","StudentId": "20230872",
             "Hindi": "71",
             "English": "71",
             "Mathematics": "26"
         },
         {
-            "StudentId": "20230873",
+            "school_code":"2023CN001","StudentId": "20230873",
             "Hindi": "26",
             "English": "82",
             "Mathematics": "58"
         },
         {
-            "StudentId": "20230874",
+            "school_code":"2023CN001","StudentId": "20230874",
             "Hindi": "65",
             "English": "82",
             "Mathematics": "92"
         },
         {
-            "StudentId": "20230875",
+            "school_code":"2023CN001","StudentId": "20230875",
             "Hindi": "63",
             "English": "38",
             "Mathematics": "45"
         },
         {
-            "StudentId": "20230876",
+            "school_code":"2023CN001","StudentId": "20230876",
             "Hindi": "68",
             "English": "55",
             "Mathematics": "77"
         },
         {
-            "StudentId": "20230877",
+            "school_code":"2023CN001","StudentId": "20230877",
             "Hindi": "55",
             "English": "78",
             "Mathematics": "35"
         },
         {
-            "StudentId": "20230878",
+            "school_code":"2023CN001","StudentId": "20230878",
             "Hindi": "98",
             "English": "28",
             "Mathematics": "64"
         },
         {
-            "StudentId": "20230879",
+            "school_code":"2023CN001","StudentId": "20230879",
             "Hindi": "60",
             "English": "86",
             "Mathematics": "96"
         },
         {
-            "StudentId": "20230880",
+            "school_code":"2023CN001","StudentId": "20230880",
             "Hindi": "81",
             "English": "30",
             "Mathematics": "97"
         },
         {
-            "StudentId": "20230881",
+            "school_code":"2023CN001","StudentId": "20230881",
             "Hindi": "84",
             "English": "98",
             "Mathematics": "90"
         },
         {
-            "StudentId": "20230882",
+            "school_code":"2023CN001","StudentId": "20230882",
             "Hindi": "43",
             "English": "30",
             "Mathematics": "47"
         },
         {
-            "StudentId": "20230883",
+            "school_code":"2023CN001","StudentId": "20230883",
             "Hindi": "74",
             "English": "67",
             "Mathematics": "100"
         },
         {
-            "StudentId": "20230884",
+            "school_code":"2023CN001","StudentId": "20230884",
             "Hindi": "68",
             "English": "66",
             "Mathematics": "45"
         },
         {
-            "StudentId": "20230885",
+            "school_code":"2023CN001","StudentId": "20230885",
             "Hindi": "36",
             "English": "45",
             "Mathematics": "99"
         },
         {
-            "StudentId": "20230886",
+            "school_code":"2023CN001","StudentId": "20230886",
             "Hindi": "91",
             "English": "100",
             "Mathematics": "33"
         },
         {
-            "StudentId": "20230887",
+            "school_code":"2023CN001","StudentId": "20230887",
             "Hindi": "45",
             "English": "83",
             "Mathematics": "54"
         },
         {
-            "StudentId": "20230888",
+            "school_code":"2023CN001","StudentId": "20230888",
             "Hindi": "33",
             "English": "86",
             "Mathematics": "99"
         },
         {
-            "StudentId": "20230889",
+            "school_code":"2023CN001","StudentId": "20230889",
             "Hindi": "37",
             "English": "49",
             "Mathematics": "90"
         },
         {
-            "StudentId": "20230890",
+            "school_code":"2023CN001","StudentId": "20230890",
             "Hindi": "69",
             "English": "68",
             "Mathematics": "77"
         },
         {
-            "StudentId": "20230891",
+            "school_code":"2023CN001","StudentId": "20230891",
             "Hindi": "67",
             "English": "29",
             "Mathematics": "36"
         },
         {
-            "StudentId": "20230892",
+            "school_code":"2023CN001","StudentId": "20230892",
             "Hindi": "71",
             "English": "88",
             "Mathematics": "25"
         },
         {
-            "StudentId": "20230893",
+            "school_code":"2023CN001","StudentId": "20230893",
             "Hindi": "93",
             "English": "27",
             "Mathematics": "41"
         },
         {
-            "StudentId": "20230894",
+            "school_code":"2023CN001","StudentId": "20230894",
             "Hindi": "98",
             "English": "48",
             "Mathematics": "35"
         },
         {
-            "StudentId": "20230895",
+            "school_code":"2023CN001","StudentId": "20230895",
             "Hindi": "43",
             "English": "44",
             "Mathematics": "64"
         },
         {
-            "StudentId": "20230896",
+            "school_code":"2023CN001","StudentId": "20230896",
             "Hindi": "35",
             "English": "44",
             "Mathematics": "37"
         },
         {
-            "StudentId": "20230897",
+            "school_code":"2023CN001","StudentId": "20230897",
             "Hindi": "87",
             "English": "77",
             "Mathematics": "71"
         },
         {
-            "StudentId": "20230898",
+            "school_code":"2023CN001","StudentId": "20230898",
             "Hindi": "93",
             "English": "38",
             "Mathematics": "59"
         },
         {
-            "StudentId": "20230899",
+            "school_code":"2023CN001","StudentId": "20230899",
             "Hindi": "32",
             "English": "56",
             "Mathematics": "64"
         },
         {
-            "StudentId": "20230900",
+            "school_code":"2023CN001","StudentId": "20230900",
             "Hindi": "33",
             "English": "76",
             "Mathematics": "28"

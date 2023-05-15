@@ -13,10 +13,11 @@ function getVipResult(url) {
 
     $.getJSON(url, function (response) {
         let combine = '', thead = '';
-        thead = '<tr><th>Student Name</th><th>Student ID</th><th>Birthday</th><th>Gender</th></tr>';
+        thead = '<tr><th>School Code</th><th>Student Name</th><th>Student ID</th><th>Birthday</th><th>Gender</th></tr>';
         response.studentPersonalInformation.forEach(data => {
             combine += `
                 <tr>
+                    <td>${data.school_code}</td>
                     <td class="text-start">${data.Name}</td>
                     <td>${data.StudentId}</td>
                     <td>${data.Birthday}</td>
