@@ -1,31 +1,31 @@
 {
     "studentPersonalInformation": [
         {
-            "school_code":"2023CN001","StudentId": "20230701",
+            "school_code":"2023CN101","StudentId": "20230701",
             "Name": "James",
             "Birthday": "5/6/2020",
             "Gender": "male"
         },
         {
-            "school_code":"2023CN001","StudentId": "20230702",
+            "school_code":"2023CN801","StudentId": "20230702",
             "Name": "Robert",
             "Birthday": "7/7/2019",
             "Gender": "male"
         },
         {
-            "school_code":"2023CN001","StudentId": "20230703",
+            "school_code":"2023CN901","StudentId": "20230703",
             "Name": "John",
             "Birthday": "21/1/2022",
             "Gender": "male"
         },
         {
-            "school_code":"2023CN001","StudentId": "20230704",
+            "school_code":"2023CN031","StudentId": "20230704",
             "Name": "Michael",
             "Birthday": "13/6/2022",
             "Gender": "male"
         },
         {
-            "school_code":"2023CN001","StudentId": "20230705",
+            "school_code":"2023CN221","StudentId": "20230705",
             "Name": "David",
             "Birthday": "15/10/2019",
             "Gender": "male"
